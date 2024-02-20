@@ -37,3 +37,6 @@ The WeatherPy folder contains two Jupyter Notebook files: WeatherPy.ipynb and Va
 ## Additional Notes
 - Ensure that you have added api_keys.py as a config file for the OpenWeather API and the Geoapify API before running the analysis.
 - You will need to place the api key in this api_keys.py once obtained from the website.
+
+## Additional Resources
+- [About Geographic Coordinate Systems](https://desktop.arcgis.com/en/arcmap/10.3/guide-books/map-projections/about-geographic-coordinate-systems.htm)
