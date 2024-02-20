@@ -23,6 +23,7 @@ The WeatherPy folder contains two Jupyter Notebook files: WeatherPy.ipynb and Va
 
 3. **API Keys:**
    - To run the code, ensure that you have API keys for the OpenWeather API and the Geoapify API.
+   - Create an 'api_keys.py' file in the WeatherPy Folder
    - Add your OpenWeather API key to the `api_keys.py` file located in the WeatherPy folder.
    - Ensure that you have the Geoapify API key accessible for use in the VacationPy analysis.
 
@@ -34,5 +35,5 @@ The WeatherPy folder contains two Jupyter Notebook files: WeatherPy.ipynb and Va
 - scipy
 
 ## Additional Notes
-- Ensure that you have obtained API keys for the OpenWeather API and the Geoapify API before running the analysis.
-- Review the README file in the main project directory for overall project instructions and API key management.
+- Ensure that you have added api_keys.py as a config file for the OpenWeather API and the Geoapify API before running the analysis.
+- You will need to place the api key in this api_keys.py once obtained from the website.
